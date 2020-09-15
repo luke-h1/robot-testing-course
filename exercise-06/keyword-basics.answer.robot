@@ -10,4 +10,4 @@ Check invoice manager page
 
 *** Keywords ***
 Navigate To Home Page
-    Open Browser    http://34.225.240.91		chrome
+    Open Browser    http://34.225.240.91/    chrome 

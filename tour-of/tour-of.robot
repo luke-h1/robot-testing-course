@@ -3,6 +3,7 @@ Library  SeleniumLibrary
 Library  OperatingSystem
 Library  Collections
 
+# files that you build (keywords, variables etc.)
 Resource    resources.robot
 Resource    invoice-details-page.robot
 Resource    navigation.robot

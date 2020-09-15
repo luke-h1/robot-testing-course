@@ -11,3 +11,5 @@ Navigate to browser
     Open Browser           http://34.225.240.91/    chrome
     Page Should Contain    Invoice Manager
     Close Browser
+
+
